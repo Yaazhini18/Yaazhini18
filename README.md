@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yaazhini
 - 👀 I’m interested to be a web designer
-- 🌱 I’m currently learning Javascript and I already learned HTML, CSS, JAVA, C and basics of PYTHON. 
+- 🌱 I’m currently learning Javascript and I have already learned HTML, CSS, JAVA, C and basics of PYTHON. 
 - 💞️ I’m looking to collaborate on to be a part of my reputed hired Industry.
 - 📫 To reach me by yaazhiniperiasamy1811@gmail.com
 
